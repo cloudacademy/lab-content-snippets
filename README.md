@@ -36,7 +36,7 @@ We will hopefully get support for a properly formatted button when the step vari
 
 <img src="https://assets.labs.cloudacademy.com/content/images/setup/OpenRemoteDesktop.png" alt="alt" width="270">
 
-- https://assets.labs.cloudacademy.com/content/images/setup/OpenDevelopmentEnv.png
+- https://assets.labs.cloudacademy.com/content/images/setup/OpenRemoteDesktop.png
 - width: 270
 - height: undefined
 - HTML (for use in Markdown):
@@ -49,7 +49,7 @@ We will hopefully get support for a properly formatted button when the step vari
 
 <img src="https://assets.labs.cloudacademy.com/content/images/setup/BridgeConnection.png" alt="alt" width="270">
 
-- https://assets.labs.cloudacademy.com/content/images/setup/OpenDevelopmentEnv.png
+- https://assets.labs.cloudacademy.com/content/images/setup/BridgeConnection.png
 - width: 270
 - height: undefined
 - HTML (for use in Markdown):
