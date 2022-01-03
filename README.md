@@ -16,7 +16,7 @@ We will hopefully get support for a properly formatted button when the step vari
 - HTML (for use in Markdown):
 
 ```html
-<img src="https://assets.labs.cloudacademy.com/content/images/setup/OpenEnvironment.png" alt="alt" width="270">
+<img src="https://assets.labs.cloudacademy.com/content/images/setup/OpenEnvironment.png" alt="Open Environment" width="270" />
 ```
 
 ### Open Development Env. Button
@@ -29,7 +29,7 @@ We will hopefully get support for a properly formatted button when the step vari
 - HTML (for use in Markdown):
 
 ```html
-<img src="https://assets.labs.cloudacademy.com/content/images/setup/OpenDevelopmentEnv.png" alt="alt" width="270">
+<img src="https://assets.labs.cloudacademy.com/content/images/setup/OpenDevelopmentEnv.png" alt="Open Development Env." width="270" />
 ```
 
 ### Open Remote Desktop Button
@@ -42,7 +42,7 @@ We will hopefully get support for a properly formatted button when the step vari
 - HTML (for use in Markdown):
 
 ```html
-<img src="https://assets.labs.cloudacademy.com/content/images/setup/OpenRemoteDesktop.png" alt="alt" width="270">
+<img src="https://assets.labs.cloudacademy.com/content/images/setup/OpenRemoteDesktop.png" alt="Open Remote Desktop" width="270" />
 ```
 
 ### Bridge Connection Button
@@ -54,6 +54,6 @@ We will hopefully get support for a properly formatted button when the step vari
 - height: undefined
 - HTML (for use in Markdown):
 
-    ```html
-    <img src="https://assets.labs.cloudacademy.com/content/images/setup/BridgeConnection.png" alt="alt" width="270">
-    ```
+```html
+<img src="https://assets.labs.cloudacademy.com/content/images/setup/BridgeConnection.png" alt="Bridge Connection" width="270" />
+```
