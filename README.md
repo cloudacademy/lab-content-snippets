@@ -8,7 +8,7 @@ We will hopefully get support for a properly formatted button when the step vari
 
 ### Open Environment Button
 
-<img src="https://assets.labs.cloudacademy.com/content/images/setup/OpenEnvironment.png" alt="alt" width="270">
+<img src="https://assets.labs.cloudacademy.com/content/images/setup/OpenEnvironment.png" alt="Open Environment Button" width="270">
 
 - https://assets.labs.cloudacademy.com/content/images/setup/OpenEnvironment.png
 - width: 270
@@ -16,12 +16,12 @@ We will hopefully get support for a properly formatted button when the step vari
 - HTML (for use in Markdown):
 
 ```html
-<img src="https://assets.labs.cloudacademy.com/content/images/setup/OpenEnvironment.png" alt="Open Environment" width="270" />
+<img src="https://assets.labs.cloudacademy.com/content/images/setup/OpenEnvironment.png" alt="Open Environment Button" width="270" />
 ```
 
 ### Open Development Env. Button
 
-<img src="https://assets.labs.cloudacademy.com/content/images/setup/OpenDevelopmentEnv.png" alt="alt" width="270">
+<img src="https://assets.labs.cloudacademy.com/content/images/setup/OpenDevelopmentEnv.png" alt="Open Development Env. Button" width="270">
 
 - https://assets.labs.cloudacademy.com/content/images/setup/OpenDevelopmentEnv.png
 - width: 270
@@ -29,12 +29,12 @@ We will hopefully get support for a properly formatted button when the step vari
 - HTML (for use in Markdown):
 
 ```html
-<img src="https://assets.labs.cloudacademy.com/content/images/setup/OpenDevelopmentEnv.png" alt="Open Development Env." width="270" />
+<img src="https://assets.labs.cloudacademy.com/content/images/setup/OpenDevelopmentEnv.png" alt="Open Development Env. Button" width="270" />
 ```
 
 ### Open Remote Desktop Button
 
-<img src="https://assets.labs.cloudacademy.com/content/images/setup/OpenRemoteDesktop.png" alt="alt" width="270">
+<img src="https://assets.labs.cloudacademy.com/content/images/setup/OpenRemoteDesktop.png" alt="Open Remote Desktop Button" width="270">
 
 - https://assets.labs.cloudacademy.com/content/images/setup/OpenRemoteDesktop.png
 - width: 270
@@ -42,12 +42,12 @@ We will hopefully get support for a properly formatted button when the step vari
 - HTML (for use in Markdown):
 
 ```html
-<img src="https://assets.labs.cloudacademy.com/content/images/setup/OpenRemoteDesktop.png" alt="Open Remote Desktop" width="270" />
+<img src="https://assets.labs.cloudacademy.com/content/images/setup/OpenRemoteDesktop.png" alt="Open Remote Desktop Button" width="270" />
 ```
 
 ### Bridge Connection Button
 
-<img src="https://assets.labs.cloudacademy.com/content/images/setup/BridgeConnection.png" alt="alt" width="270">
+<img src="https://assets.labs.cloudacademy.com/content/images/setup/BridgeConnection.png" alt="Bridge Connection Button" width="270">
 
 - https://assets.labs.cloudacademy.com/content/images/setup/BridgeConnection.png
 - width: 270
@@ -55,5 +55,5 @@ We will hopefully get support for a properly formatted button when the step vari
 - HTML (for use in Markdown):
 
 ```html
-<img src="https://assets.labs.cloudacademy.com/content/images/setup/BridgeConnection.png" alt="Bridge Connection" width="270" />
+<img src="https://assets.labs.cloudacademy.com/content/images/setup/BridgeConnection.png" alt="Bridge Connection Button" width="270" />
 ```
