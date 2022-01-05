@@ -1,0 +1,67 @@
+{
+	// Place your global snippets here. Each snippet is defined under a snippet name and has a scope, prefix, body and 
+	// description. Add comma separated ids of the languages where the snippet is applicable in the scope field. If scope 
+	// is left empty or omitted, the snippet gets applied to all languages. The prefix is what is 
+	// used to trigger the snippet and the body will be expanded and inserted. Possible variables are: 
+	// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. 
+	// Placeholders with the same ids are connected.
+	// Example:
+	// "Print to console": {
+	// 	"scope": "javascript,typescript",
+	// 	"prefix": "log",
+	// 	"body": [
+	// 		"console.log('$1');",
+	// 		"$2"
+	// 	],
+	// 	"description": "Log output to console"
+	// }
+	"Open Environment": {
+		"scope": "markdown",
+		"prefix": "image-open-environment-button",
+		"body": [
+			"<img src=\"https://assets.labs.cloudacademy.com/content/images/setup/OpenEnvironment.png\" alt=\"Open Environment Button\" width=\"270\">"
+		],
+		"description": "Open Environment Button"
+	},
+	"Open Development Env.": {
+		"scope": "markdown",
+		"prefix": "image-open-development-env-button",
+		"body": [
+			"<img src=\"https://assets.labs.cloudacademy.com/content/images/setup/OpenDevelopmentEnv.png\" alt=\"Open Development Env. Button\" width=\"270\">"
+		],
+		"description": "Open Development Environment Button"
+	},
+	"Open Remote Desktop": {
+		"scope": "markdown",
+		"prefix": "image-open-remote-desktop-button",
+		"body": [
+			"<img src=\"https://assets.labs.cloudacademy.com/content/images/setup/OpenRemoteDesktop.png\" alt=\"Open Remote Desktop Button\" width=\"270\">"
+		],
+		"description": "Open Remote Desktop Button"
+	},,
+	"Bridge Connection": {
+		"scope": "markdown",
+		"prefix": "image-open-bridge-connection",
+		"body": [
+			"<img src=\"https://assets.labs.cloudacademy.com/content/images/setup/OpenRemoteDesktop.png\" alt=\"Bridge Connection Button\" width=\"270\">"
+		],
+		"description": "Bridge Connection Button"
+	},
+	"Open Environment Button": {
+		"scope": "yaml",
+		"prefix": "pb-aws-custom-instance-profile",
+		"body": [
+			"CustomInstanceProfile:",
+			"Type: AWS::CloudFormation::Stack",
+			"Properties: ",
+			"	Parameters:",
+			"	InstanceNamePattern: $1",
+			"	ExpectedInstances: $2",
+			"	RoleName: !Ref $3",
+			"	# Had to use clouda-labs-assets to make it publicly available",
+			"	TemplateURL: https://clouda-labs-assets.s3.us-west-2.amazonaws.com/templates/custom-instance-profile.yaml",
+			"	TimeoutInMinutes: 5"
+		],
+		"description": "Custom Instance Profile Nested Stack"
+	}
+}
