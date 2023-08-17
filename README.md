@@ -13,7 +13,7 @@ Reusable snippets in lab content.
 ```
 
 ```markdown
-[Attention Warning](https://raw.githubusercontent.com/cloudacademy/lab-content-snippets/main/gifs/animated-warning.gif){: width="28"}
+![Attention Warning](https://raw.githubusercontent.com/cloudacademy/lab-content-snippets/main/gifs/animated-warning.gif){: width="28"}
 ```
 
 ## Button Templates
